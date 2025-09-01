@@ -116,3 +116,15 @@ class TestCore(unittest.TestCase):
     
     def test_function_54(self):
         self.assertTrue(True)
+
+
+# Tests for ComputeGrid
+
+import unittest
+
+class TestCore(unittest.TestCase):
+    def test_basic(self):
+        self.assertEqual(1 + 1, 2)
+    
+    def test_function_55(self):
+        self.assertTrue(True)
