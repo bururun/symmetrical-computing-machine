@@ -1,5 +1,6 @@
 """
 Symmetrical Computing Machine - Feature Enhancement
+Symmetrical Computing Machine
 """
 
 def process_data(data):
